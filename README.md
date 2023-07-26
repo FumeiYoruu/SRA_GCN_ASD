@@ -5,9 +5,13 @@ This repo is a graph convolutional network classifier of autism with functions o
 
 ## Requirements
 torch
+
 torch-geometric
+
 torch-sparse
+
 sklearn
+
 deepdish
 
 ## Dataset
