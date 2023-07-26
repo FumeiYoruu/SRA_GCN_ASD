@@ -15,7 +15,7 @@ sklearn
 deepdish
 
 ## Dataset
-Dataset is downloaded and preprocessed through ABIDE I Preprocessed. The preprocessed data is stored here: (https://drive.google.com/drive/folders/1QS71Ks4Vjbs4DQRkNDoz5zz4GVipV_GX?usp=drive_link)
+Dataset is downloaded and preprocessed through ABIDE I Preprocessed. The preprocessed data is stored here: (https://drive.google.com/drive/folders/1QS71Ks4Vjbs4DQRkNDoz5zz4GVipV_GX?usp=drive_link). Data is processed through the pipeline provided in "BrainGNN: Interpretable Brain Graph Neural Network for fMRI Analysis" [1].
 
 ## Model Training
 
