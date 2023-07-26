@@ -20,5 +20,7 @@ Dataset is downloaded and preprocessed through ABIDE I Preprocessed. The preproc
 
 ## Reference
 [1] Li, XiaoXiao, et al., “BrainGNN: Interpretable Brain Graph Neural Network for fMRI Analysis.” ScienceDirect, 12 September 2021.
+
 [2] Pan, Li, et al. "Identifying autism spectrum disorder based on individual-aware down-sampling and multi-modal learning." arXiv preprint arXiv:2109.09129 (2021).
+
 [3] ElGazzar, Ahmed, Rajat Thomas, and Guido Van Wingen. "Benchmarking Graph Neural Networks for FMRI analysis." arXiv preprint arXiv:2211.08927 (2022).
