@@ -1,5 +1,5 @@
 # Identifying Biomarkers for Autism Spectrum Disorder with ROI Parcellation and Graph Neural Network 
-Graph Convolutional Network on ASD Clasification
+Graph Convolutional Network on ASD Classification
 
 This repo is a graph convolutional network classifier of autism with functions of selecting salient biomarkers trained on ABIDE I Preprocessed Dataset. 
 
